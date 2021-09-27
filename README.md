@@ -1,4 +1,4 @@
-# Python-Project
+# Binary Classification
 
 The training dataset:https://drive.google.com/file/d/1UJrpHQiJDMpsh-_utV14WoR-YR6zjoD2/view?usp=sharing
 The test dataset:https://drive.google.com/file/d/16aLIOB6Lwv_wHJwGnorqDkDeofX2hj4V/view?usp=sharing
